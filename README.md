@@ -48,4 +48,4 @@ the ``` Add ``` inside function body is not neccessary, it's already mention in 
 
 good example: ``` enc(add): DaggerHilt ```
 
-the function body gives additional information about what's being created, withiout re-stating what's already mentioned in the function body and/or parameter.
+the function body gives additional information about what's being added, without re-stating what's already mentioned in the function body and/or parameter.
