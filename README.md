@@ -31,7 +31,7 @@ and here's list of function name and the purpose:
 
 and this is a list for function parameter:
 ---
- - ``` add ``` -> for adding piece of code
+ - ``` add ``` -> for adding piece of code.
  - ``` crea ``` -> for creation of important code.
  - ``` imp ``` -> for implementing important code.
  - ``` app ``` -> for applying newly created code.
@@ -42,10 +42,10 @@ and this is a list for function parameter:
  ---
 any name is fine, just don't mention what already mention in the function body and/or parameters.
 
-bad example: ``` enc(crea): Create ViewModelFactory ```
+bad example: ``` enc(add): Adding DaggerHilt ```
 
 the ``` Create ``` inside function body is not neccessary, it's already mention in the parameters.
 
-good example: ``` enc(crea): Custom Appbar Composables ```
+good example: ``` enc(add): DaggerHilt ```
 
 the function body gives additional information about what's being created, withiout re-stating what's already mentioned in the function body and/or parameter.
