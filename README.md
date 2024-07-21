@@ -44,7 +44,7 @@ any name is fine, just don't mention what already mention in the function body a
 
 bad example: ``` enc(add): Adding DaggerHilt ```
 
-the ``` Create ``` inside function body is not neccessary, it's already mention in the parameters.
+the ``` Add ``` inside function body is not neccessary, it's already mention in the parameters.
 
 good example: ``` enc(add): DaggerHilt ```
 
