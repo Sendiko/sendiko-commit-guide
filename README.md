@@ -34,7 +34,6 @@ and this is a list for function parameter:
  - ``` add ``` -> for adding piece of code.
  - ``` crea ``` -> for creation of important code.
  - ``` imp ``` -> for implementing important code.
- - ``` app ``` -> for applying newly created code.
 
  <br>
 
