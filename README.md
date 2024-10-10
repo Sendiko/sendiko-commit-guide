@@ -4,7 +4,7 @@
 
 there's 3 component for the commit message
 ---
- - functon name
+ - function name
  - function parameter
  - function body / function message
 
